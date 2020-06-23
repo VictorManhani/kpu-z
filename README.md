@@ -6,7 +6,9 @@ I have made this question a bunch of times and now, I am have the answer of my q
 
 ## dependencies
 python >= 3.7
+
 kivy >= 1.11.1
+
 kivymd >= 0.104.1
 
 
