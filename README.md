@@ -1,4 +1,4 @@
-# Project Proudly Created by Victor Gomes Manhani
+# Project Proudly Created
 How do I get the system information in Windows with Python?
 
 I have made this question a bunch of times and now, I am have the answer of my question.
@@ -23,3 +23,5 @@ py main.py
 
 ## issues
  - I have tested only in Windows 10 Professional
+
+# by Victor Gomes Manhani
